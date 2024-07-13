@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a lecturer at the College of Information Engineering, Nanjing University of Finance and Economics, Nanjing, China. My primary research areas are Anomaly Detection and Social Network Analysis. My research interests include reinforcement learning, adversarial learning, and various issues related to data privacy protection.
- <a href='https://scholar.google.com/citations?hl=en&user=zVA1n7UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
   
 
  
