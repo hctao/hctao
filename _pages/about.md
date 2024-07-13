@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 
 I am a lecturer at the College of Information Engineering, Nanjing University of Finance and Economics, Nanjing, China. My primary research areas are Anomaly Detection and Social Network Analysis. My research interests include reinforcement learning, adversarial learning, and various issues related to data privacy protection.
@@ -23,7 +24,7 @@ I am a lecturer at the College of Information Engineering, Nanjing University of
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+# Publications
 
 ---
 
