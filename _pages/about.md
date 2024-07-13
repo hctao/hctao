@@ -24,15 +24,15 @@ I am a lecturer at the College of Information Engineering, Nanjing University of
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publication
+# 📝 Publications
 
 ---
 
 - `Haicheng Tao`, Jie Cao, Lei Chen, Hongliang Sun, Yong Shi, Xingquan Zhu, Black-box attacks on dynamic graphs via adversarial topology perturbations. Neural Networks 171: 308-309 (2024)
-- Jiawei Miao, `Haicheng Tao*`, Haoran Xie, Jianshan Sun, Jie Cao: Reconstruction-based anomaly detection for multivariate time series using contrastive generative adversarial networks. Inf. Process. Manag. 61(1): 103569 (2024)
+- Jiawei Miao, `Haicheng Tao*`, Haoran Xie, Jianshan Sun, Jie Cao: Reconstruction-based anomaly detection for multivariate time series using contrastive generative adversarial networks. Inf. Process. Manag. 61(1): 103569 (2024) (corresponding author)
 - `Haicheng Tao`, Jiawei Miao, Zhao Li, Zhenyu Zhang, Shuming Feng, Shu Wang, Jie Cao: HAN-CAD: hierarchical attention network for context anomaly detection in multivariate time series. World Wide Web (WWW) 26(5): 2785-2800 (2023)
 - `陶海成`, 卜湛, 曹杰. 基于多目标强化学习的社区隐藏框架. 中国科学: 信息科学, 2021, 51: 1131–1145
-- Jorge Agnese#, Jonathan Herrera#, `Haicheng Tao#`, Xingquan Zhu: A survey and taxonomy of adversarial neural networks for text-to-image synthesis. WIREs Data Mining Knowl. Discov. 10(4) (2020)
+- Jorge Agnese#, Jonathan Herrera#, `Haicheng Tao#`, Xingquan Zhu: A survey and taxonomy of adversarial neural networks for text-to-image synthesis. WIREs Data Mining Knowl. Discov. 10(4) (2020) (Equally contributing author)
 - `Haicheng Tao`, Zhe Li, Zhiang Wu, Jie Cao: Link communities detection: an embedding method on the line hypergraph. Neurocomputing 367: 46-54 (2019)
 - `Haicheng Tao`, Zhiang Wu, Jin Shi, Jie Cao, Xiaofeng Yu: Overlapping Community Extraction: A Link Hypergraph Partitioning Based Method. IEEE SCC 2014: 123-130
 - Lei Chen, Jie Cao, `Haicheng Tao`, Jia Wu: Trip Reinforcement Recommendation with Graph-based Representation Learning. ACM Trans. Knowl. Discov. Data 17(4): 57:1-57:20 (2023)
