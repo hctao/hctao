@@ -41,7 +41,7 @@ I am a lecturer at the College of Information Engineering, Nanjing University of
 - Youquan Wang, Zhiwen Dai, Jie Cao, Jia Wu, `Haicheng Tao`, Guixiang Zhu: Intra- and inter-association attention network-enhanced policy learning for social group recommendation. World Wide Web (WWW) 26(1): 71-94 (2023)
 - Weichao Liang, Youquan Wang, `Haicheng Tao`, Jie Cao: Towards hour-level crime prediction: A neural attentive framework with spatial-temporal-categorical fusion. Neurocomputing 486: 286-297 (2022)
 - Jie Cao, Yuyao Wang, Zhan Bu, Youquan Wang, `Haicheng Tao`, Guixiang Zhu: Compactness Preserving Community Computation Via a Network Generative Process. IEEE Trans. Emerg. Top. Comput. Intell. 6(5): 1044-1056 (2022)
-- ie Cao, Youquan Wang, `Haicheng Tao`, Xiang Guo: Sensor-based Human Activity Recognition Using Graph LSTM and Multi-task Classification Model. ACM Trans. Multim. Comput. Commun. Appl. 18(3s): 139:1-139:19 (2022)
+- Jie Cao, Youquan Wang, `Haicheng Tao`, Xiang Guo: Sensor-based Human Activity Recognition Using Graph LSTM and Multi-task Classification Model. ACM Trans. Multim. Comput. Commun. Appl. 18(3s): 139:1-139:19 (2022)
 - Xinhao Wang, Huiju Zhao, Youquan Wang, `Haicheng Tao`, Jie Cao: Supervised Prototypical Variational Autoencoder for Shilling Attack Detection in Recommender Systems. DMBD (2) 2022: 231-245
 - Zhenyu Zhang, Zhao Li, Dongyang Cai, Shuming Feng, Jiawei Miao, Yirun Guan, `Haicheng Tao`, Jie Cao: Time Series Anomaly Detection for Smart Grids via Multiple Self-Supervised Tasks Learning. ICKG 2022: 392-397
 - Jiangnan Tang, Youquan Wang, Jie Cao, `Haicheng Tao`, Guixiang Zhu: Inter- and Intra-Graph Attention Aggregation Learning for Multi-relational GNN Spam Detection. ITQM 2022: 1522-1530
