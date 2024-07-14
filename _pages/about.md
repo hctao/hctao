@@ -17,22 +17,6 @@ redirect_from:
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=73662865"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '73662865');
-    </script>
-</head>
-<body>
-
-
-
 
 
 # About Me
@@ -78,8 +62,6 @@ I am a lecturer at the College of Information Engineering, Nanjing University of
 - Zhiang Wu, `Haicheng Tao`, Youquan Wang, Changjian Fang, Jie Cao: A Cloud System for Community Extraction from Super-Large Scale Social Networks. WISE (2) 2013: 499-502
 
 
-</body>
-</html>
 
 
 
