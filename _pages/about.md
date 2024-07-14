@@ -30,9 +30,7 @@ redirect_from:
     </script>
 </head>
 <body>
-    <!-- Your markdown content -->
-</body>
-</html>
+
 
 
 
@@ -80,6 +78,8 @@ I am a lecturer at the College of Information Engineering, Nanjing University of
 - Zhiang Wu, `Haicheng Tao`, Youquan Wang, Changjian Fang, Jie Cao: A Cloud System for Community Extraction from Super-Large Scale Social Networks. WISE (2) 2013: 499-502
 
 
+</body>
+</html>
 
 
 
