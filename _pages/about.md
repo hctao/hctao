@@ -26,7 +26,7 @@ redirect_from:
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'YOUR_TRACKING_ID');
+    gtag('config', '73662865');
     </script>
 </head>
 <body>
